@@ -1,0 +1,1 @@
+from notest._setting import setting
